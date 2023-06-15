@@ -15,9 +15,7 @@ Docker - It eases configuration management, control issues, and scaling by allow
 Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project. Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster.
 
 
-## Building an automation CI/CD  
-
-Key steps to building CI/CD pipeline: 
+## Key steps to building CI/CD pipeline:  
 
 ### Define the Pipeline:
 Identify the stages and steps needed in your CI/CD pipeline based on your project requirements.
