@@ -1,7 +1,7 @@
 # DevOps Tools
 The integration approach works well on:
 - In-house: dev and production
-- In-house data with Cloud systems
+- In-house data with Cloud engineering systems
 - Legacy systems
 
 ## Tools include:
